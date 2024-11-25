@@ -2,7 +2,7 @@
 
 Welcome to my Exercism Hub! 🚀 Here, you'll find solutions to coding challenges across multiple tracks. This repository is a personal archive of my journey in mastering various languages and frameworks, with exercises and solutions organized by track.
 
-![Midoriya Izuku Study GIF](https://media.tenor.com/images/fbe9e73210952096173a5660063f5b71/tenor.gif)
+![](https://media1.tenor.com/m/zk6OuE-RGngAAAAC/midoriya-izuku-anime-stud.gif)
 
 ## **Overview**
 
