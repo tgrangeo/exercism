@@ -34,11 +34,8 @@ def build_exercises_dict():
     return exercises_dict
 
 def remove_section_content():
-    # Read the existing README content
     with open(README_FILE, 'r') as file:
         content = file.readlines()
-    
-    # Find the indexes of the sections
     start_idx = None
     end_idx = None
     for i, line in enumerate(content):
@@ -47,12 +44,8 @@ def remove_section_content():
         if line.strip() == "## **Scripts**":
             end_idx = i
             break
-    
-    # If both sections are found, remove content in between (but keep the headers)
     if start_idx is not None and end_idx is not None:
         content = content[:start_idx + 1] + content[end_idx:]
-    
-    # Write the updated content back to the README
     with open(README_FILE, 'w') as file:
         file.writelines(content)
 

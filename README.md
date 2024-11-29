@@ -10,14 +10,14 @@ This repo contains my solutions to exercises from a variety of programming track
 
 ## **Languages & Tracks**
 
-- **Go**: 50 / 141 (35%)
-- **Java**: 6 / 149 (4%)
-- **Javascript**: 7 / 149 (5%)
-- **Php**: 6 / 110 (5%)
-- **Purescript**: 2 / 31 (6%)
-- **Python**: 13 / 140 (9%)
-- **Rust**: 17 / 98 (17%)
-- **Typescript**: 26 / 97 (27%)
+- **Go**: 53 / 141 (38%)
+- **Java**: 7 / 149 (5%)
+- **Javascript**: 8 / 149 (5%)
+- **Php**: 7 / 110 (6%)
+- **Purescript**: 3 / 31 (10%)
+- **Python**: 14 / 140 (10%)
+- **Rust**: 18 / 98 (18%)
+- **Typescript**: 27 / 97 (28%)
 
 ## **Scripts**
 
