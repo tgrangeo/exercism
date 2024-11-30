@@ -10,7 +10,7 @@ This repo contains my solutions to exercises from a variety of programming track
 
 ## **Languages & Tracks**
 
-- **Go**: 57 / 141 (40%)
+- **Go**: 58 / 141 (41%)
 - **Java**: 6 / 149 (4%)
 - **Javascript**: 7 / 149 (5%)
 - **Php**: 6 / 110 (5%)
