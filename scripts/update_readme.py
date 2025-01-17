@@ -3,7 +3,7 @@ from dotenv import load_dotenv
 import requests
 import os
 
-tracks = ["go", "java", "javascript", "php", "purescript", "python", "rust", "typescript"]
+tracks = ["go", "java", "javascript", "php", "purescript", "python", "rust", "typescript","dart"]
 README_FILE = 'README.md'
 
 load_dotenv()

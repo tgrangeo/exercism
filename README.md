@@ -10,7 +10,7 @@ This repo contains my solutions to exercises from a variety of programming track
 
 ## **Languages & Tracks**
 
-- **Go**: 58 / 141 (41%)
+- **Go**: 60 / 141 (43%)
 - **Java**: 6 / 149 (4%)
 - **Javascript**: 7 / 149 (5%)
 - **Php**: 6 / 110 (5%)
@@ -18,6 +18,7 @@ This repo contains my solutions to exercises from a variety of programming track
 - **Python**: 13 / 140 (9%)
 - **Rust**: 17 / 98 (17%)
 - **Typescript**: 26 / 97 (27%)
+- **Dart**: 3 / 72 (4%)
 
 ## **Scripts**
 
