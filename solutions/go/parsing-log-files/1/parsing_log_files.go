@@ -1,0 +1,33 @@
+package parsinglogfiles
+
+import (
+	"fmt"
+	"regexp"
+)
+
+func IsValidLine(text string) bool {
+	re, _ := regexp.Compile(`^\[(TRC|DBG|INF|WRN|ERR|FTL)\]`)
+    return re.MatchString(text)
+}
+
+func SplitLogLine(text string) []string {
+	re := regexp.MustCompile(`<[-=~*]*>`)
+    return re.Split(text, -1)
+}
+
+func main (){
+	s := "this is an err"
+	fmt.Println(IsValidLine(s))
+}
+
+func CountQuotedPasswords(lines []string) int {
+	panic("Please implement the CountQuotedPasswords function")
+}
+
+func RemoveEndOfLineText(text string) string {
+	panic("Please implement the RemoveEndOfLineText function")
+}
+
+func TagWithUserName(lines []string) []string {
+	panic("Please implement the TagWithUserName function")
+}
